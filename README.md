@@ -1,2 +1,2 @@
 # Snake-Game
-Classic Snake Game created with Java 20.
+Classic Snake Game created with Java.
